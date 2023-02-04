@@ -2,11 +2,11 @@
 
 #### 介绍
 这个微信小程序是根据华为商城制作的，对页面Ui做了处理，现在分享出来供大家互相学习，喜欢记得start下哦~
-![输入图片说明](huaWeiStore/images/gh_697101a8e05a_344.jpg)
 
+
+![输入图片说明](https://gitee.com/fqrhello_world/de-watermark/raw/master/gh_697101a8e05a_344.jpg)
 
 #### 安装教程
-
 
 #### 使用说明
 
@@ -15,12 +15,14 @@
 对你有帮助请点个star
 
 #### 效果预览
-
-
+![输入图片说明](1.jpeg)
+![输入图片说明](10.png)
+![输入图片说明](13.png)
+![输入图片说明](6.png)
 #### 体验地址
 https://gitee.com/fqrhello_world/de-watermark/raw/master/gh_697101a8e05a_344.jpg
 
-![输入图片说明](huaWeiStore/images/gh_697101a8e05a_344.jpg)
+![输入图片说明](https://gitee.com/fqrhello_world/de-watermark/raw/master/gh_697101a8e05a_344.jpg)
 
 
 ##
